@@ -1,4 +1,4 @@
-function Spliter(a){
-   return a.split(" ")
+function substringgggg(a){
+    return a.substring(3,5)
 }
-console.log(Spliter("Hello I am Ismoil"));
+console.log(substringgggg("Hello"));
