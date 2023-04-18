@@ -1,6 +1,4 @@
-function Index(a){
-    let b="World"
-    let c="Hello World"
-    return a.concat(" ",b,",",c)
+function Replacee(a){
+    return a.replace("Microsoft","Soft Club")
 }
-console.log(Index("Hello"));
+console.log(Replacee("Visit Microsoft"));

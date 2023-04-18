@@ -30,3 +30,11 @@ Join two strings:
 
 Join three strings:
 ![](./images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-04-18%20%D0%B2%2010.56.45.png)
+
+### JavaScript String method replace()
+Метод replace() ищет в строке значение или регулярное выражение. 
+Метод replace() возвращает новую строку с замененными значениями.
+Метод replace() не изменяет исходную строку.
+
+Replace Microsoft:
+![](./images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-04-18%20%D0%B2%2011.02.25.png)
