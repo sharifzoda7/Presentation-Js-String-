@@ -1,4 +1,4 @@
-function Replacee(a){
-    return a.replaceAll("Microsoft","Soft Club")
+function Spliter(a){
+   return a.split(" ")
 }
-console.log(Replacee("I am visit Microsoft tomorrow.The Microsoft very big company."));
+console.log(Spliter("Hello I am Ismoil"));
