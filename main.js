@@ -1,4 +1,4 @@
 function substringgggg(a){
-    return a.substring(3,5)
+    return a.slice(1,5)
 }
 console.log(substringgggg("Hello"));
