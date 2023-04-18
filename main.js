@@ -1,6 +1,5 @@
 function Index(a){
-    let text = a
-    console.log(text);
-    return a.charAt(text.length-1)
+    let b = "I am qurbonali"
+    return a.concat(" ",b)
 }
-console.log(Index("Hello"));
+console.log(Index("Hello,"));
