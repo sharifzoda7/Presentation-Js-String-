@@ -1,4 +1,4 @@
-function substringgggg(a){
-    return a.slice(1,5)
+function LoverCase(a){
+    return a.toLowerCase()
 }
-console.log(substringgggg("Hello"));
+console.log(LoverCase("HELLO"));    
