@@ -1,5 +1,6 @@
 function Index(a){
-    console.log(a);
-    return a.charAt(3)
+    let text = a
+    console.log(text);
+    return a.charAt(text.length-1)
 }
 console.log(Index("Hello"));
